@@ -1,7 +1,7 @@
 # Security Policy
 
 ## Goal
-This document describes how to report vulnerabilities and how we respond for the **TARL-Net (ics-ot-wadi-hybrid-ids)** repository. 
+This document describes how to report vulnerabilities and how we respond for the **TARL-Net** repository. 
 
 > [!WARNING]
 > This project is academic research code. Please thoroughly evaluate security risks before deploying it in production Industrial Control Systems (ICS) or Operational Technology (OT) environments.
