@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this repository or model in your research, please cite it as below."
+type: software
+title: "TARL-Net: Self-Supervised Transformer-LSTM Network for Explainable Open-Set Intrusion Detection"
+abstract: |
+  Official implementation of TARL-Net, an advanced network intrusion detection system 
+  integrating a hybrid Transformer-BiLSTM architecture. Features include Self-Supervised 
+  Learning (SSL) pre-training, Open-Set Recognition (OSR) via Leave-One-Attack-Family-Out 
+  (LOAFO) validation, Explainable AI (XAI) using Attention Rollout for feature importance, 
+  and Continual Learning capability using Elastic Weight Consolidation (EWC) and replay 
+  mechanisms. Evaluated and benchmarked on the UNSW-NB15 dataset.
+authors:
+  - family-names: hamzeh shalamzari
+    given-names: reza
+    orcid: https://orcid.org/0009-0002-3424-8787
+    email: rezahamzeh.sh@gmail.com
+keywords:
+  - intrusion detection
+  - open-set recognition
+  - self-supervised learning
+  - explainable ai
+  - transformer
+  - BiLSTM
+  - continual learning
+  - UNSW-NB15
+  - TARL-Net
+license: MIT
+repository-code: https://github.com/rezahamzeh69/ics-ot-wadi-hybrid-ids
+url: https://github.com/rezahamzeh69/ics-ot-wadi-hybrid-ids
+version: 1.0.0
+date-released: 2026-06-13
+identifiers:
+  - type: url
+    value: https://github.com/rezahamzeh69/ics-ot-wadi-hybrid-ids/blob/main/TARL_NET.ipynb
+preferred-citation:
+  type: software
+  title: "TARL-Net: Self-Supervised Transformer-LSTM Network for Explainable Open-Set Intrusion Detection"
+  authors:
+    - family-names: hamzeh shalamzari
+      given-names: reza
+      orcid: https://orcid.org/0009-0002-3424-8787
+  year: 2026
+  version: 1.0.0
